@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+pillow
+imagehash
+python-Levenshtein
+scikit-image
+requests
+easyocr
