@@ -1,0 +1,9 @@
+opencv-python-headless
+numpy
+pillow
+imagehash
+python-Levenshtein
+pytesseract
+scikit-image
+requests
+streamlit
