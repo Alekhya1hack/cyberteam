@@ -1,9 +1,9 @@
 streamlit
-opencv-python-headless
+opencv-python
 numpy
-pillow
-imagehash
-python-Levenshtein
+Pillow
 scikit-image
-requests
-easyocr
+python-Levenshtein
+imagehash
+scikit-learn
+pyzbar
